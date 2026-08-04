@@ -131,12 +131,14 @@ button, input, textarea {
 .text-gradient {
     background: linear-gradient(135deg, #a5b4fc 0%, #818cf8 30%, #34d399 100%);
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
 [data-theme="light"] .text-gradient {
     background: linear-gradient(135deg, #4f46e5 0%, #2563eb 50%, #0d9488 100%);
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
