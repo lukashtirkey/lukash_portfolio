@@ -412,7 +412,7 @@ button, input, textarea {
     display: flex;
     justify-content: center;
     align-items: center;
-    transform: translateX(-4%); /* Shift picture container slightly to the left side */
+    transform: translateX(5%); /* Shift picture container 5% to the right side */
 }
 
 .profile-illustration {
@@ -460,7 +460,7 @@ button, input, textarea {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    object-position: 35% 5%; /* Head/face shifted further to the left side */
+    object-position: 55% 5%; /* Head/face positioned 5% to the right side */
     display: block;
     z-index: 2;
 }
