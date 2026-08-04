@@ -1,0 +1,19 @@
+{
+  "name": "lukash-portfolio",
+  "version": "1.0.0",
+  "description": "Lukash Tirkey - Personal Portfolio & Resume Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "resume",
+    "lukash-tirkey",
+    "render",
+    "static-site"
+  ],
+  "author": "Lukash Tirkey",
+  "license": "ISC"
+}
