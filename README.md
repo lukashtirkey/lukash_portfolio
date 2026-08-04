@@ -2,9 +2,10 @@
 
 This repository contains my personal portfolio website and professional resume, designed to showcase my experience, education, and transition into information technology (IT) and sales/service roles.
 
-## 🌟 Live Demo
-You can view the interactive version of this portfolio live on GitHub Pages:
-**[Link to your portfolio site]** *(Once deployed, update this link to `https://<your-username>.github.io/<your-repo-name>/`)*
+## 🌟 Live Links & Profiles
+* **GitHub Repository:** [github.com/lukashtirkey/lukash_portfolio](https://github.com/lukashtirkey/lukash_portfolio)
+* **LinkedIn Profile:** [linkedin.com/in/lukash-tirkey-35a126308](https://linkedin.com/in/lukash-tirkey-35a126308)
+* **Render Live Web App:** [lukash-portfolio.onrender.com](https://lukash-portfolio.onrender.com)
 
 ---
 
